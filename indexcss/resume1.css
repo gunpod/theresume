@@ -1,0 +1,45 @@
+h1{
+    
+    color: rgb(55, 57, 55);
+   
+}
+img {
+    width: 300px; /* Adjust image width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%;
+    margin-bottom: 100px;
+    border: 10px solid white;
+}
+.content {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    margin-bottom: 20px; 
+}
+.box{
+    margin-top: 100px;
+background: rgba(255, 255, 255,.2);
+box-shadow: 0 5px 15px rgba(0,0,0,0.5);
+padding: 40px;
+width: 800px;
+border-radius: 20px;
+}
+body{
+    font-family: "Roboto Slab", serif;
+    font-size: 28px;
+    
+}
+.left-div{
+
+    height: 1500px;
+    width: 50%;
+    float: left;
+
+}
+.background{
+    
+    width: 50%;
+    height: 1500px;
+    float: left;
+    
+}
